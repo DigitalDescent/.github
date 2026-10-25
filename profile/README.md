@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DigitalDescent/.github/HEAD/profile/assets/digital-descent-logo.png" alt="Digital Descent" width="560" />
+  <img src="./assets/digital-descent-logo.png" alt="Digital Descent" width="560" />
 </p>
 
 <h1 align="center">Open source from Digital Descent</h1>
